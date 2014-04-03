@@ -1,0 +1,29 @@
+body{
+	background-color: #ffb177;
+}
+.big{
+	box-shadow:0px 0px 16px #000;
+	width: 30%;
+	margin: 0 auto;
+	background-color: #9dcdff;
+}
+.in{
+	width: 50%;
+}
+.ss-q-title{
+	font-family: impact;
+	font-size:130%;
+}
+.bl{
+	margin-left: 7%;
+}
+.bl2{
+
+}
+.ss-choice-item{
+	list-style-type:none;
+	font-weight: bold;
+}
+.ss-choice-label,.ss-q-radio,.ss-q-checkbox{
+	margin-left: 0%;
+}
